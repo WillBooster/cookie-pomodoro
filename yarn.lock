@@ -830,7 +830,7 @@ __metadata:
     eslint-config-prettier: 8.10.0
     eslint-import-resolver-node: 0.3.9
     eslint-plugin-import: 2.29.1
-    husky: 7.0.4
+    husky: 9.1.4
     lint-staged: 14.0.1
     micromatch: 4.0.7
     pinst: 2.1.6
@@ -1757,12 +1757,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"husky@npm:7.0.4":
-  version: 7.0.4
-  resolution: "husky@npm:7.0.4"
+"husky@npm:9.1.4":
+  version: 9.1.4
+  resolution: "husky@npm:9.1.4"
   bin:
-    husky: lib/bin.js
-  checksum: c6ec4af63da2c9522da8674a20ad9b48362cc92704896cc8a58c6a2a39d797feb2b806f93fbd83a6d653fbdceb2c3b6e0b602c6b2e8565206ffc2882ef7db9e9
+    husky: bin.js
+  checksum: 7608a6dfac264876a2ff37f2db8520e0f9f0ea2b810a9ca151548327e9eca0b7ed58a63e0a208d20d3f43b191d8f111edcab46c3c8132c95e10ef7bd7115ee9b
   languageName: node
   linkType: hard
 
